@@ -17,7 +17,7 @@ Esse sistema foi realizado com as seguintes tecnologias:
 Esse projeto tem como finalidade ajudar a entender os pilares da programação 
 orientada à objetos no Java e a construção de um sistema Web.
 
-O projeto possui a função de cadastrar, colsutar, alterar e remover os objetos da lista
+O projeto possui a função de cadastrar, consultar, alterar e remover os objetos da lista
 
 ```
 
